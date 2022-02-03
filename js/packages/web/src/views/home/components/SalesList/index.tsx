@@ -31,7 +31,7 @@ export const SalesListView = () => {
   return (
     <>
       <Banner
-        src="/main-banner.svg"
+        src="/halluce_logo.png"
         headingText="NFTs for viral videos from social media."
         subHeadingText="Buy the most valuable NFTs."
         actionComponent={<HowToBuyModal buttonClassName="secondary-btn" />}
